@@ -1,7 +1,7 @@
 # DAW_EJ_2_3
-## Bienvenidos a mi **repositorio** de github probando las funcionalidades de GIT
+## Bienvenidos a mi repositorio de github probando las funcionalidades de GIT
 
-He estado trabajando en él para aprender a hacer git pull, push, merge y rebase
+He estado trabajando en él para aprender a hacer **git pull, push, merge y rebase**
 
 ### _El día de hoy_
 
